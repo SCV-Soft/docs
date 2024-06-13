@@ -73,6 +73,7 @@
     "tailwindcss": "3.4.1",
     "tailwindcss-animate": "^1.0.7",
     "tsx": "^4.7.0",
+    "typedoc": "^0.25.13",
     "typescript": "^5.2.2",
     "webpack": "^5.89.0"
   }
