@@ -53,7 +53,7 @@ export default {
       },
       {
         title: 'Ordinals API',
-        text: 'Get fast, reliable data for Bitcoin Ordinals and BRC-20 tokens via an easy-to-use REST interface.',
+        text: 'Get fast, reliable data for Bitcoin Ordinals and BGRC-20 tokens via an easy-to-use REST interface.',
         href: '/ordinals-api',
         image: {
           src: '/img/landing/ordinals-api.png',
